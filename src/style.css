@@ -1,7 +1,25 @@
 body {
   background-color: #f9f7fe;
 }
+h1 {
+  font-weight: 800;
+  font-family: "Merienda", cursive;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #630369;
+  text-align: center;
+}
+.container {
+  margin: 120px auto;
+  max-width: 600px;
 
+  background-color: ;
+}
+.poem {
+  font-weight: 400;
+  font-family: "Merienda", cursive;
+  font-size: 28px;
+}
 .footer {
   color: #630369;
   font-size: 14px;
