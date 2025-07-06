@@ -1,4 +1,7 @@
-
+function generatePoem(event) {
+    event.preventDefault();
+    
+}
 
 
 
