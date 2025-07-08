@@ -7,7 +7,7 @@ function generatePoem(event) {
     delay: 1,
     cursor: "",
   });
-  poemElement.innerHTML = "Quelque chose";
+  poemElement.innerHTML = "Quelque chose!";
 }
 
 let poemFormElement = document.querySelector("#poem-generator-form");
